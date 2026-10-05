@@ -4160,5 +4160,680 @@
       "ChatGPT"
     ],
     "notes": "Combined from ChatGPT chats \"Cut turkey backbone tips\" (Nov 25, 2025), \"Spatchcock vs traditional turkey\", \"Turkey size for 14 adults\", and \"Utensils for spatchcock turkey\". Dry-brine amounts are for a ~20 lb Butterball-style pre-salted bird. No compound butter recipe was given. No photo. Total time assumes ~24 hr dry brine + ~1 hr 45 min roast (brine window 12–48 hrs)."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "id": "turkey-wild-rice-soup-chatgpt",
+    "name": "Turkey & Wild Rice Soup",
+    "description": "A leftover-turkey soup with wild rice, mirepoix, and turkey stock — finished optionally with cream and lemon. Serves about 6.",
+    "meal_type": "Soups & Stews",
+    "cuisine": "American",
+    "main_protein": "Turkey",
+    "key_ingredients": [
+      "turkey",
+      "wild rice",
+      "turkey stock",
+      "onion",
+      "carrot",
+      "celery",
+      "garlic"
+    ],
+    "ingredients": [
+      "Butter, for sautéing",
+      "1 onion, diced",
+      "2 carrots, diced",
+      "2 celery stalks, diced",
+      "3 garlic cloves, minced",
+      "¾ cup wild rice",
+      "6 cups turkey stock",
+      "1½–2 cups cooked turkey, shredded or chopped",
+      "1 bay leaf",
+      "Thyme (fresh sprig or a pinch dried)",
+      "Salt and black pepper",
+      "Optional: splash of cream",
+      "Optional: lemon juice, to finish"
+    ],
+    "steps_summary": [
+      "Melt butter in a pot; soften onion, carrots, and celery until tender, then add garlic briefly.",
+      "Stir in the wild rice; add turkey stock, bay leaf, and thyme. Season lightly with salt and pepper.",
+      "Simmer until the wild rice is tender.",
+      "Stir in the cooked turkey and warm through.",
+      "Optional: finish with a splash of cream and a squeeze of lemon; adjust salt and pepper. Remove bay leaf before serving."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 55,
+    "total_time_min": 70,
+    "difficulty": "Easy",
+    "servings": 6,
+    "cooking_method": "Simmering",
+    "kid_friendly": true,
+    "occasion": "Everyday",
+    "categories": [
+      "Soups & Stews",
+      "Weeknight Dinner"
+    ],
+    "tags": [
+      "leftover turkey",
+      "Thanksgiving",
+      "make-ahead",
+      "stock & base",
+      "ChatGPT"
+    ],
+    "notes": "Chat: \"Turkey & Wild Rice Soup\" (Nov 28 / Dec 21, 2025). Saved from Joe's ChatGPT chat; no external recipe page. Pairs with turkey stock / gravy / jus entries. No photo."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "id": "turkey-gravy-chatgpt",
+    "name": "Turkey Gravy",
+    "description": "A classic roux gravy: equal parts butter and flour whisked into turkey stock until thickened.",
+    "meal_type": "Sauces & Stocks",
+    "cuisine": "American",
+    "main_protein": null,
+    "key_ingredients": [
+      "turkey stock",
+      "butter",
+      "flour"
+    ],
+    "ingredients": [
+      "4 cups turkey stock",
+      "½ cup butter",
+      "½ cup flour",
+      "Salt and black pepper, to taste"
+    ],
+    "steps_summary": [
+      "Melt the butter; whisk in the flour and cook the roux briefly (do not burn).",
+      "Gradually whisk in the turkey stock until smooth.",
+      "Simmer, stirring, until thickened; season with salt and pepper."
+    ],
+    "prep_time_min": 5,
+    "cook_time_min": 15,
+    "total_time_min": 20,
+    "difficulty": "Easy",
+    "servings": "about 4 cups",
+    "cooking_method": "Stovetop",
+    "kid_friendly": true,
+    "occasion": "Party/Holiday",
+    "categories": [
+      "Sides",
+      "Weekend Cooking"
+    ],
+    "tags": [
+      "sauces",
+      "stock & base",
+      "Thanksgiving",
+      "under-30-min",
+      "ChatGPT"
+    ],
+    "notes": "Chat: turkey gravy notes alongside leftover turkey / soup chats (Nov–Dec 2025). Short stock & base pairing with turkey. No photo."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "id": "turkey-jus-chatgpt",
+    "name": "Turkey Jus",
+    "description": "A lighter turkey pan jus from stock (and drippings if you have them) — a thinner alternative to gravy.",
+    "meal_type": "Sauces & Stocks",
+    "cuisine": "American",
+    "main_protein": null,
+    "key_ingredients": [
+      "turkey stock",
+      "turkey drippings (optional)"
+    ],
+    "ingredients": [
+      "Turkey stock (amount as needed for serving)",
+      "Optional: turkey pan drippings / roasting juices",
+      "Salt and black pepper",
+      "Optional: splash of wine or a knob of butter to finish"
+    ],
+    "steps_summary": [
+      "Deglaze the roasting pan with a little stock (or warm stock in a saucepan) and scrape up browned bits.",
+      "Add more turkey stock and simmer to concentrate slightly; skim fat if needed.",
+      "Season and optionally mount with a small knob of butter; keep thinner than gravy."
+    ],
+    "prep_time_min": 5,
+    "cook_time_min": 15,
+    "total_time_min": 20,
+    "difficulty": "Easy",
+    "servings": "variable",
+    "cooking_method": "Stovetop",
+    "kid_friendly": true,
+    "occasion": "Party/Holiday",
+    "categories": [
+      "Sides",
+      "Weekend Cooking"
+    ],
+    "tags": [
+      "sauces",
+      "stock & base",
+      "Thanksgiving",
+      "under-30-min",
+      "ChatGPT"
+    ],
+    "notes": "Chat: turkey jus notes with Thanksgiving / leftover turkey chats (Nov–Dec 2025). Short stock & base pairing with turkey; thinner than the gravy entry. Detail was limited — do not over-specify. No photo."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "id": "french-toast-casserole-chatgpt",
+    "name": "French Toast Casserole",
+    "description": "Make-ahead brioche or challah French toast bake soaked overnight in a sweet custard, with a brown-sugar pecan butter topping; baked at 350°F about 40–55 minutes.",
+    "meal_type": "Breakfast",
+    "cuisine": "American",
+    "main_protein": null,
+    "key_ingredients": [
+      "brioche or challah",
+      "eggs",
+      "milk",
+      "sugar",
+      "vanilla",
+      "cinnamon",
+      "brown sugar",
+      "pecans",
+      "butter"
+    ],
+    "ingredients": [
+      "Brioche or challah, cubed or sliced (enough to fill a baking dish)",
+      "8 eggs",
+      "2 cups milk",
+      "½ cup sugar",
+      "Vanilla extract",
+      "Ground cinnamon",
+      "Nutmeg",
+      "Salt",
+      "Optional: citrus zest (orange or lemon)",
+      "Topping: brown sugar, pecans, butter",
+      "— Toddler / Overnight French Toast Bake notes (smaller batch) —",
+      "14–16 oz bread",
+      "6 eggs",
+      "2 cups milk",
+      "½ cup cream",
+      "Maple syrup (to taste / in custard or for serving)",
+      "Vanilla, cinnamon, and other seasonings as for the main bake"
+    ],
+    "steps_summary": [
+      "Cube or arrange the brioche/challah in a buttered baking dish.",
+      "Whisk eggs, milk, sugar, vanilla, cinnamon, nutmeg, salt, and optional zest; pour over the bread so it soaks evenly.",
+      "Cover and refrigerate overnight.",
+      "Before baking, scatter the brown-sugar–pecan–butter topping over the top.",
+      "Bake at 350°F until set and golden, about 40–55 minutes. Rest briefly; serve warm.",
+      "Toddler batch: use the smaller bread/egg/milk/cream ratios (14–16 oz bread, 6 eggs, 2 cups milk, ½ cup cream, maple) with the same overnight soak and bake approach."
+    ],
+    "prep_time_min": 20,
+    "cook_time_min": 50,
+    "total_time_min": 540,
+    "difficulty": "Easy",
+    "servings": "one casserole (crowd breakfast)",
+    "cooking_method": "Baking",
+    "kid_friendly": true,
+    "occasion": "Weekend/Project",
+    "categories": [
+      "Breakfast",
+      "Weekend Cooking"
+    ],
+    "tags": [
+      "make-ahead",
+      "brunch",
+      "kid-friendly",
+      "overnight",
+      "ChatGPT"
+    ],
+    "notes": "Chat: \"French Toast Casserole\" (Nov 7–8, 2025). Kid Overnight French Toast Bake notes merged into the same entry (toddler ratios: 14–16 oz bread, 6 eggs, 2 cups milk, ½ cup cream, maple). Total time assumes overnight soak. No photo."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "id": "mini-tiramisu-cups-chatgpt",
+    "name": "Mini Tiramisu Cups",
+    "description": "Individual tiramisu cups: espresso-and-liqueur–soaked ladyfingers layered with sweetened mascarpone cream, dusted with cocoa.",
+    "meal_type": "Desserts",
+    "cuisine": "Italian",
+    "main_protein": null,
+    "key_ingredients": [
+      "espresso",
+      "liqueur",
+      "cream",
+      "mascarpone",
+      "sugar",
+      "vanilla",
+      "ladyfingers",
+      "cocoa"
+    ],
+    "ingredients": [
+      "Espresso (or strong coffee), cooled",
+      "Liqueur (coffee or dessert liqueur, as preferred)",
+      "Heavy cream",
+      "Mascarpone",
+      "Sugar",
+      "Vanilla",
+      "Ladyfingers",
+      "Cocoa powder, for dusting"
+    ],
+    "steps_summary": [
+      "Mix cooled espresso with liqueur for dipping.",
+      "Whip cream with sugar and vanilla; fold in mascarpone until smooth and fluffy.",
+      "Briefly dip ladyfingers in the espresso mixture and layer into cups with the mascarpone cream.",
+      "Repeat layers; finish with cream and a dusting of cocoa.",
+      "Chill until set before serving."
+    ],
+    "prep_time_min": 25,
+    "cook_time_min": 0,
+    "total_time_min": 145,
+    "difficulty": "Easy",
+    "servings": "individual cups",
+    "cooking_method": "No-cook (chill)",
+    "kid_friendly": false,
+    "occasion": "Party/Holiday",
+    "categories": [
+      "Desserts"
+    ],
+    "tags": [
+      "Italian",
+      "make-ahead",
+      "no-bake",
+      "party",
+      "ChatGPT"
+    ],
+    "notes": "Chat: \"Dessert Ideas\" (Jul 21, 2025). Salted caramel pots de crème and chocolate bark in that chat were incomplete — skipped (not invented). No photo. Total time includes chill."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "id": "red-lentil-coconut-curry-chatgpt",
+    "name": "Red Lentil Coconut Curry",
+    "description": "A quick red-lentil curry with onion, garlic, ginger, tomato paste, curry powder, tomatoes, and coconut milk — simmered about 20 minutes; finished with lime and cilantro.",
+    "meal_type": "Dinner/Mains",
+    "cuisine": "Indian-inspired",
+    "main_protein": null,
+    "key_ingredients": [
+      "red lentils",
+      "coconut milk",
+      "curry powder",
+      "onion",
+      "garlic",
+      "ginger",
+      "tomatoes",
+      "lime"
+    ],
+    "ingredients": [
+      "1 cup red lentils",
+      "Oil, for sautéing",
+      "1 onion, diced",
+      "Garlic, minced",
+      "Ginger, minced or grated",
+      "Tomato paste",
+      "Curry powder",
+      "Tomatoes (canned or fresh, as used in chat)",
+      "Coconut milk",
+      "Water (enough to cook the lentils)",
+      "Lime, for finishing",
+      "Cilantro, for finishing",
+      "Salt, to taste"
+    ],
+    "steps_summary": [
+      "Sauté onion in oil until soft; add garlic and ginger briefly.",
+      "Stir in tomato paste and curry powder until fragrant.",
+      "Add tomatoes, rinsed red lentils, coconut milk, and water; season with salt.",
+      "Simmer about 20 minutes until the lentils are soft and the curry is thick.",
+      "Finish with lime and cilantro."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 25,
+    "total_time_min": 35,
+    "difficulty": "Easy",
+    "servings": "about 4",
+    "cooking_method": "Simmering",
+    "kid_friendly": true,
+    "occasion": "Weeknight",
+    "categories": [
+      "Weeknight Dinner",
+      "Soups & Stews"
+    ],
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "meal-prep",
+      "under-45-min",
+      "one-pot",
+      "ChatGPT"
+    ],
+    "notes": "Chat: \"Meal Prep\" (Jan 4, 2026). Saved from Joe's ChatGPT chat; no external recipe page. No photo."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "id": "hot-sauce-fresh-fermented-chatgpt",
+    "name": "Hot Sauce (Fresh & Fermented)",
+    "description": "Two approaches to homemade hot sauce: a quick fresh blend of peppers, vinegar, salt, and garlic; and a fermented brine method for deeper flavor.",
+    "meal_type": "Sauces & Stocks",
+    "cuisine": "American",
+    "main_protein": null,
+    "key_ingredients": [
+      "hot peppers",
+      "vinegar",
+      "salt",
+      "garlic"
+    ],
+    "ingredients": [
+      "Fresh version:",
+      "2 cups peppers (hot peppers of choice), stemmed",
+      "¾ cup vinegar",
+      "Salt",
+      "Garlic",
+      "Fermented version:",
+      "Peppers and garlic as for fermenting",
+      "Salt brine (salt dissolved in water — follow a safe brine strength you trust)"
+    ],
+    "steps_summary": [
+      "Fresh: blend peppers with vinegar, salt, and garlic until smooth (or to preferred texture); taste and adjust salt/vinegar. Bottle and refrigerate.",
+      "Fermented: pack peppers (and garlic) under a salt brine; ferment until tangy, then blend (with some brine and/or vinegar as desired) and bottle.",
+      "Use as a table sauce or cooking condiment."
+    ],
+    "prep_time_min": 15,
+    "cook_time_min": 0,
+    "total_time_min": 15,
+    "difficulty": "Easy",
+    "servings": "about 1–2 cups (fresh batch)",
+    "cooking_method": "No-cook / Fermenting",
+    "kid_friendly": false,
+    "occasion": "Everyday",
+    "categories": [
+      "Sides"
+    ],
+    "tags": [
+      "sauces",
+      "condiment",
+      "make-ahead",
+      "ferment",
+      "ChatGPT"
+    ],
+    "notes": "Chat: \"Hot Sauce\" fresh & fermented (Jan 9 / Feb 21, 2026). Fresh ratios given (2 cups peppers, ¾ cup vinegar, salt, garlic); fermented is brine method — exact brine % not specified in source notes, so not invented. Filed as sauces. No photo. Fresh total time is active time; ferment days are extra."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "id": "pan-seared-ribeye-chatgpt",
+    "name": "Pan-Seared Ribeye",
+    "description": "Dry-brined ribeye seared in a steel pan, finished to preferred doneness with attention to pan temperature and rest.",
+    "meal_type": "Dinner/Mains",
+    "cuisine": "American",
+    "main_protein": "Beef",
+    "key_ingredients": [
+      "ribeye steak",
+      "salt",
+      "oil or fat for searing"
+    ],
+    "ingredients": [
+      "Ribeye steak(s), well dried",
+      "Kosher or sea salt (for dry brine)",
+      "Black pepper (optional, often after sear)",
+      "High-heat oil or beef fat, for the steel pan",
+      "Optional: butter, garlic, herbs for basting"
+    ],
+    "steps_summary": [
+      "Dry-brine: salt the steak ahead and refrigerate uncovered (or at least salt well and rest) so the surface dries.",
+      "Heat a steel pan until very hot; add a film of oil.",
+      "Sear the ribeye hard to build a crust; flip and continue, basting with butter/garlic/herbs if using.",
+      "Cook to preferred internal temperature; rest before slicing."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "total_time_min": 145,
+    "difficulty": "Medium",
+    "servings": "1 steak per person",
+    "cooking_method": "Pan-searing",
+    "kid_friendly": false,
+    "occasion": "Weeknight",
+    "categories": [
+      "Beef",
+      "Weeknight Dinner"
+    ],
+    "tags": [
+      "steak",
+      "steel pan",
+      "dry brine",
+      "under-30-min-cook",
+      "ChatGPT"
+    ],
+    "notes": "Chat: \"Pan-Seared Ribeye\" (Aug 15, 2026). Dry brine + steel pan method; specific target temps were referenced in chat but not copied into the library brief — use a thermometer and your preferred doneness rather than invented numbers. Total time assumes dry-brine window. No photo."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "id": "crispy-skin-salmon-chatgpt",
+    "name": "Crispy-Skin Salmon",
+    "description": "Pan method for salmon with crisp skin, plus a quick ~2-minute pan sauce made in the same skillet.",
+    "meal_type": "Dinner/Mains",
+    "cuisine": "American",
+    "main_protein": "Salmon",
+    "key_ingredients": [
+      "salmon fillets",
+      "oil",
+      "salt",
+      "pan-sauce aromatics"
+    ],
+    "ingredients": [
+      "Salmon fillets, skin on, patted very dry",
+      "Salt and pepper",
+      "Oil, for the pan",
+      "For a ~2-minute pan sauce (same skillet): butter and/or aromatics and acid as preferred (e.g. lemon, mustard, or stock) — exact pantry mix as used in chat"
+    ],
+    "steps_summary": [
+      "Pat salmon very dry; season. Heat a skillet with oil over medium–medium-high.",
+      "Place skin-side down and press gently so the skin contacts the pan; cook until the skin is crisp and the flesh is mostly cooked.",
+      "Flip briefly to finish the flesh side if needed; remove salmon to rest.",
+      "In the same pan, make a ~2-minute pan sauce (deglaze / melt butter with your acid and aromatics), then spoon over the fish."
+    ],
+    "prep_time_min": 5,
+    "cook_time_min": 12,
+    "total_time_min": 17,
+    "difficulty": "Easy",
+    "servings": "2",
+    "cooking_method": "Pan-searing",
+    "kid_friendly": true,
+    "occasion": "Weeknight",
+    "categories": [
+      "Seafood",
+      "Weeknight Dinner"
+    ],
+    "tags": [
+      "under-30-min",
+      "one-pan",
+      "crispy",
+      "sauces",
+      "ChatGPT"
+    ],
+    "notes": "Chat: \"Crispy-Skin Salmon\" (Mar 8, 2026) with a 2-minute pan sauce. Distinct from the library's Quick Salmon Sauce (Lemon-Dijon Butter). Sauce pantry details were sparse in the brief — keep the sauce flexible rather than inventing a fixed formula. No photo."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "id": "caramelized-onions-chatgpt",
+    "name": "Caramelized Onions",
+    "description": "Slow-cooked onions cooked down until deep brown and sweet — a versatile base for steaks, sandwiches, pizzas, and more.",
+    "meal_type": "Sides",
+    "cuisine": "American",
+    "main_protein": null,
+    "key_ingredients": [
+      "onions",
+      "butter or oil",
+      "salt"
+    ],
+    "ingredients": [
+      "Onions, thinly sliced",
+      "Butter and/or oil",
+      "Salt",
+      "Optional: splash of water, stock, or vinegar to deglaze if fond threatens to burn"
+    ],
+    "steps_summary": [
+      "Slice onions thinly; cook in butter/oil over medium–medium-low with a pinch of salt.",
+      "Cook low and slow, stirring often, until the onions are deep golden-brown and sweet — not scorched.",
+      "Deglaze with a splash of water or stock if the pan gets too dark; continue until fully caramelized.",
+      "Use right away or cool and refrigerate/freeze."
+    ],
+    "prep_time_min": 10,
+    "cook_time_min": 45,
+    "total_time_min": 55,
+    "difficulty": "Easy",
+    "servings": "variable",
+    "cooking_method": "Stovetop",
+    "kid_friendly": true,
+    "occasion": "Everyday",
+    "categories": [
+      "Sides"
+    ],
+    "tags": [
+      "make-ahead",
+      "technique",
+      "vegetarian",
+      "vegan-option",
+      "ChatGPT"
+    ],
+    "notes": "Chat: \"Caramelized Onions\" (Mar 1, 2026). Crispy broccoli was mentioned in related chat notes but lacked enough detail for a separate entry — skipped rather than inventing. No photo."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "id": "whipped-ricotta-chatgpt",
+    "name": "Whipped Ricotta",
+    "description": "Light whipped ricotta (about 1 cup base) — a soft spread or dip that pairs especially well with gnocchi fritti.",
+    "meal_type": "Appetizers",
+    "cuisine": "Italian",
+    "main_protein": null,
+    "key_ingredients": [
+      "ricotta",
+      "salt",
+      "olive oil or cream (as used)"
+    ],
+    "ingredients": [
+      "1 cup ricotta",
+      "Salt, to taste",
+      "Optional: olive oil, cream, lemon zest/juice, black pepper, or honey — to taste for savory or lightly sweet"
+    ],
+    "steps_summary": [
+      "Beat or food-process the ricotta until smooth and fluffy.",
+      "Season with salt and any optional oil, cream, zest, pepper, or honey.",
+      "Serve cool or room temperature as a spread or dip."
+    ],
+    "prep_time_min": 5,
+    "cook_time_min": 0,
+    "total_time_min": 5,
+    "difficulty": "Easy",
+    "servings": "about 1 cup",
+    "cooking_method": "No-cook",
+    "kid_friendly": true,
+    "occasion": "Party/Holiday",
+    "categories": [
+      "Appetizers",
+      "Sides"
+    ],
+    "tags": [
+      "under-30-min",
+      "no-cook",
+      "vegetarian",
+      "party",
+      "ChatGPT"
+    ],
+    "notes": "Chat: \"Whipped Ricotta\" (Dec 25, 2025). Pairs with Gnocchi Fritti (Elevated Christmas Appetizers) in this library. No photo."
   }
 ]
