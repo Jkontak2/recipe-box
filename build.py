@@ -8,7 +8,7 @@ recipes = json.load(open(os.path.join(ROOT, "recipes.json"), encoding="utf-8"))
 data = json.dumps(recipes, ensure_ascii=False).replace("</", "<\\/")
 
 CATEGORIES = ["Breakfast","Lunch","Weeknight Dinner","Weekend Cooking","Chicken","Beef","Pork","Seafood","Pasta",
-              "Soups & Stews","Grilling","Pizza","Sides","Appetizers","Desserts","Cocktails"]
+              "Soups & Stews","Grilling","Pizza","Sides","Appetizers","Desserts","Cocktails","Beverages"]
 used = [c for c in CATEGORIES if any(c in r["categories"] for r in recipes)]
 
 TEMPLATE = r"""<!doctype html>
@@ -154,7 +154,7 @@ const QUICK = [
   {k:"kid", label:"🧒 Kid-friendly", f:r=>!!r.kid_friendly},
   {k:"fall", label:"🍂 Fall", f:r=>(r.tags||[]).includes("fall")},
 ];
-const HOT = new Set(["Cajun & Creole","fall","under-30-min","under-45-min","one-pot","instant-pot","sauces","stock & base","gumbo","white chicken chili","Mexican","vegetarian"]);
+const HOT = new Set(["Cajun & Creole","fall","under-30-min","under-45-min","one-pot","instant-pot","sauces","stock & base","gumbo","white chicken chili","white wine sauce","vegetarian"]);
 const st = {q:"", group:"meal", cat:null, quick:new Set()};
 const $ = s=>document.querySelector(s);
 const esc = s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));

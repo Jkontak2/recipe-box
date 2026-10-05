@@ -60,7 +60,8 @@
       "vegetarian",
       "tomato",
       "cream sauce",
-      "pasta night"
+      "pasta night",
+      "white wine sauce"
     ],
     "notes": "Source page lists no prep/cook times; roasting alone is ~30 min plus ~15 min sauce simmer.",
     "rating": null,
@@ -120,7 +121,8 @@
     "occasion": "Weekend/Project",
     "categories": [
       "Breakfast",
-      "Desserts"
+      "Desserts",
+      "Weekend Cooking"
     ],
     "tags": [
       "baking",
@@ -652,7 +654,8 @@
       "gumbo",
       "stock & base",
       "make-ahead",
-      "freezer-friendly"
+      "freezer-friendly",
+      "New Orleans"
     ],
     "notes": "Base recipe: use it in place of broth for the two gumbos in this library (Authentic New Orleans Style Gumbo and Good New Orleans Creole Gumbo); also works for the shrimp étouffée.",
     "rating": null,
@@ -1000,7 +1003,8 @@
     "kid_friendly": true,
     "occasion": "Weekend/Project",
     "categories": [
-      "Breakfast"
+      "Breakfast",
+      "Weekend Cooking"
     ],
     "tags": [
       "fall",
@@ -1135,7 +1139,8 @@
     "occasion": "Weekend/Project",
     "categories": [
       "Soups & Stews",
-      "Chicken"
+      "Chicken",
+      "Weekend Cooking"
     ],
     "tags": [
       "stock & base",
@@ -1188,7 +1193,7 @@
       "Stream in the olive oil with the machine running, then pulse in Parmesan if using."
     ],
     "prep_time_min": 5,
-    "cook_time_min": null,
+    "cook_time_min": 0,
     "total_time_min": 5,
     "difficulty": "Easy",
     "servings": "1 cup",
@@ -1412,8 +1417,7 @@
     "tags": [
       "casserole",
       "crowd-pleaser",
-      "make-ahead",
-      "Mexican"
+      "make-ahead"
     ],
     "notes": null,
     "rating": null,
@@ -1475,7 +1479,6 @@
     ],
     "tags": [
       "sauces",
-      "Mexican",
       "under-30-min",
       "vegetarian",
       "make-ahead",
@@ -1693,7 +1696,8 @@
       "sauces",
       "under-30-min",
       "date night",
-      "lobster"
+      "lobster",
+      "white wine sauce"
     ],
     "notes": "Total time computed from the listed 10 min prep + 20 min cook.",
     "rating": null,
@@ -1897,9 +1901,9 @@
     "tags": [
       "sauces",
       "under-30-min",
-      "French",
       "date night",
-      "vegetarian"
+      "vegetarian",
+      "white wine sauce"
     ],
     "notes": "Spoon over seared fish, scallops or shrimp; also nice on the lobster or butternut squash ravioli.",
     "rating": null,
@@ -2107,7 +2111,8 @@
     "tags": [
       "under-30-min",
       "one-pan",
-      "date night"
+      "date night",
+      "white wine sauce"
     ],
     "notes": null,
     "rating": null,
@@ -2169,13 +2174,14 @@
     "kid_friendly": true,
     "occasion": "Weekend/Project",
     "categories": [
-      "Weeknight Dinner"
+      "Weekend Cooking"
     ],
     "tags": [
       "comfort food",
       "make-ahead",
       "crowd-pleaser",
-      "healthy"
+      "healthy",
+      "turkey"
     ],
     "notes": "Saved from the 'unbelievably-moist-turkey-meatloaf' URL; the page is now titled 'Best Turkey Meatloaf We've Made'. Co-created by Adam & Joanne Gallagher; recipe card credits Adam Gallagher.",
     "rating": null,
@@ -2250,7 +2256,6 @@
     "tags": [
       "under-45-min",
       "one-pot",
-      "Thai",
       "coconut"
     ],
     "notes": null,
@@ -2394,8 +2399,7 @@
       "stir-fry",
       "noodles",
       "takeout-at-home",
-      "spicy",
-      "Thai"
+      "spicy"
     ],
     "notes": null,
     "rating": null,
@@ -2536,7 +2540,8 @@
       "under-30-min",
       "vegetarian",
       "fall",
-      "brown butter"
+      "brown butter",
+      "white wine sauce"
     ],
     "notes": "Scaled for one hungry person (or two as a side). The blogger used it on ~½ lb pumpkin gnocchi and suggests butternut squash ravioli — pairs with the Butternut Squash Ravioli in this library. WordPress blog post with no recipe schema or named author; credited to the blog. Source says it takes 5–10 minutes but lists no formal times.",
     "rating": null,
@@ -2686,8 +2691,7 @@
     "tags": [
       "make-ahead",
       "project",
-      "noodles",
-      "Japanese"
+      "noodles"
     ],
     "notes": "Total time (6.5 hrs) includes egg marinating; components keep for days, so it's easy to split across two days.",
     "rating": null,
@@ -3089,7 +3093,8 @@
       "sauces",
       "under-30-min",
       "vegetarian",
-      "pantry"
+      "pantry",
+      "white wine sauce"
     ],
     "notes": "Recipe includes 1 lb pasta; also great over the seafood dishes in this library.",
     "rating": null,
@@ -3136,7 +3141,7 @@
       "Chill 15 minutes (optional) so the flavors meld."
     ],
     "prep_time_min": 20,
-    "cook_time_min": null,
+    "cook_time_min": 0,
     "total_time_min": 20,
     "difficulty": "Easy",
     "servings": "¾ cup",
@@ -3286,7 +3291,6 @@
       "Weekend Cooking"
     ],
     "tags": [
-      "Mexican",
       "crowd-pleaser",
       "make-ahead",
       "party"
@@ -3408,10 +3412,10 @@
     "kid_friendly": false,
     "occasion": "Weekend/Project",
     "categories": [
-      "Breakfast"
+      "Breakfast",
+      "Beverages"
     ],
     "tags": [
-      "beverages",
       "coffee",
       "make-ahead",
       "no-cook",
