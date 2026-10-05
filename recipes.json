@@ -4098,5 +4098,67 @@
       "weeknight"
     ],
     "notes": "Chat: \"Baking Drumsticks at 425\" (~Mar 20, 2025). Saved from Joe's ChatGPT chat; no external recipe page."
+  },
+  {
+    "source_url": "https://chatgpt.com/c/6925d477-c48c-832e-b213-e3091da922bc",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "prep_time_min": 45,
+    "cook_time_min": 105,
+    "total_time_min": 1545,
+    "difficulty": "Hard",
+    "kid_friendly": true,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "main_protein": "Turkey",
+    "cuisine": "American",
+    "id": "spatchcocked-turkey-dry-brined-chatgpt",
+    "name": "Spatchcocked Turkey (Dry-Brined)",
+    "description": "Dry-brined spatchcock turkey for a crowd: remove the backbone, flatten, brine uncovered 12–48 hours, then roast at 425°F about 1 hour 45 minutes for a 20–22 lb bird.",
+    "meal_type": "Dinner/Mains",
+    "key_ingredients": [
+      "whole turkey (20–22 lb)",
+      "kosher or table salt",
+      "baking powder",
+      "black pepper",
+      "compound butter (cooking day)"
+    ],
+    "ingredients": [
+      "1 whole turkey, 20–22 lb (e.g. Butterball; often pre-salted)",
+      "Dry brine for ~20 lb pre-salted bird: 4½–5 tsp table salt OR 6–7 tsp Diamond Crystal kosher OR 4–5 tsp Morton kosher (~1 tsp kosher salt per 3 lb)",
+      "2 tsp baking powder (not baking soda)",
+      "1½–2 tsp black pepper",
+      "Compound butter, for under the skin on cooking day (no specific recipe given in source chats)",
+      "Equipment: poultry shears; large board with juice groove; paper towels; glove; mixing bowl; rimmed sheet pan with wire rack; thermometer; foil; carving knife; optional gravy separator"
+    ],
+    "steps_summary": [
+      "Prep the bird: remove packaging, hock lock, and giblets; pat thoroughly dry with paper towels.",
+      "Spatchcock: place breast-side down and, starting from the tail end, cut along one side of the backbone about ¼ inch from the spine with short snips of poultry shears; repeat the other side, lifting the backbone as a handle. Save the backbone for stock.",
+      "Flip breast-side up and press firmly on the breastbone until the bird flattens.",
+      "Before brining, loosen the breast skin: work a flat finger under the skin to tent it away from the meat; do not force past the wishbone.",
+      "Mix salt, baking powder, and black pepper; rub the dry brine all over. Refrigerate uncovered 12–48 hours (24 hours ideal).",
+      "Cooking day: spread compound butter under the loosened breast skin. Roast on a wire rack set in a rimmed sheet pan at 425°F about 1 hour 45 minutes for a 20–22 lb bird, until breast reads 160–165°F and thigh 175–185°F.",
+      "Rest tented with foil, then carve."
+    ],
+    "servings": "14 (20–22 lb bird)",
+    "cooking_method": "Roasting",
+    "occasion": "Weekend/Project",
+    "categories": [
+      "Weekend Cooking",
+      "Chicken"
+    ],
+    "tags": [
+      "Thanksgiving",
+      "make-ahead",
+      "crowd-pleaser",
+      "ChatGPT"
+    ],
+    "notes": "Combined from ChatGPT chats \"Cut turkey backbone tips\" (Nov 25, 2025), \"Spatchcock vs traditional turkey\", \"Turkey size for 14 adults\", and \"Utensils for spatchcock turkey\". Dry-brine amounts are for a ~20 lb Butterball-style pre-salted bird. No compound butter recipe was given. No photo. Total time assumes ~24 hr dry brine + ~1 hr 45 min roast (brine window 12–48 hrs)."
   }
 ]
