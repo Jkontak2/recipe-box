@@ -3428,5 +3428,675 @@
     "changes_made": null,
     "make_again": null,
     "date_added": "2026-10-04"
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "prep_time_min": 5,
+    "cook_time_min": 0,
+    "total_time_min": 5,
+    "difficulty": "Easy",
+    "kid_friendly": true,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "main_protein": null,
+    "cuisine": "American",
+    "id": "overnight-oats-chatgpt",
+    "name": "Overnight Oats",
+    "description": "A make-ahead jar of oats soaked overnight in milk with yogurt, chia, honey, vanilla and cinnamon — ready for toppings in the morning.",
+    "meal_type": "Breakfast",
+    "key_ingredients": [
+      "oats",
+      "milk",
+      "yogurt",
+      "chia seeds",
+      "honey",
+      "vanilla",
+      "cinnamon"
+    ],
+    "ingredients": [
+      "½ cup rolled oats",
+      "½ cup milk (dairy or non-dairy)",
+      "2–3 tablespoons yogurt (plain or Greek)",
+      "1 tablespoon chia seeds",
+      "1–2 teaspoons honey (or maple syrup), to taste",
+      "½ teaspoon vanilla extract",
+      "¼ teaspoon ground cinnamon",
+      "Pinch of salt (optional)",
+      "Toppings as desired: fresh fruit, nuts, nut butter, granola, extra yogurt"
+    ],
+    "steps_summary": [
+      "Stir oats, milk, yogurt, chia, honey, vanilla, cinnamon and a pinch of salt in a jar or bowl until evenly combined.",
+      "Cover and refrigerate overnight (or at least 4–6 hours) so the oats and chia soften.",
+      "In the morning, stir; loosen with a splash of milk if needed.",
+      "Add toppings and eat cold, or warm gently if you prefer."
+    ],
+    "servings": 1,
+    "cooking_method": "No-cook (refrigerate)",
+    "occasion": "Everyday",
+    "categories": [
+      "Breakfast"
+    ],
+    "tags": [
+      "make-ahead",
+      "no-cook",
+      "under-30-min",
+      "vegetarian",
+      "meal-prep"
+    ],
+    "notes": "Chat: \"Overnight oats\" (~Jul 21). Saved from Joe's ChatGPT chat; no external recipe page."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "total_time_min": 25,
+    "difficulty": "Easy",
+    "kid_friendly": true,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "main_protein": null,
+    "cuisine": "American",
+    "id": "pancake-batter-chatgpt",
+    "name": "Pancake Batter",
+    "description": "A simple from-scratch pancake batter — flour, sugar, baking powder, milk, egg, melted butter and vanilla — that makes about 8–10 pancakes.",
+    "meal_type": "Breakfast",
+    "key_ingredients": [
+      "flour",
+      "sugar",
+      "baking powder",
+      "milk",
+      "egg",
+      "butter",
+      "vanilla"
+    ],
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "2 tablespoons sugar",
+      "2 teaspoons baking powder",
+      "¼ teaspoon salt (or a pinch)",
+      "1 cup milk",
+      "1 large egg",
+      "2 tablespoons melted butter (plus more for the pan)",
+      "1 teaspoon vanilla extract"
+    ],
+    "steps_summary": [
+      "Whisk flour, sugar, baking powder and salt in a bowl.",
+      "In another bowl, whisk milk, egg, melted butter and vanilla.",
+      "Pour the wet into the dry and stir just until combined — a few lumps are fine; do not overmix.",
+      "Heat a lightly buttered skillet or griddle over medium. Scoop batter (about ¼ cup each) and cook until bubbles form and edges look set; flip and finish the other side.",
+      "Makes about 8–10 pancakes; keep warm and serve with butter, maple syrup or fruit."
+    ],
+    "servings": "8–10 pancakes",
+    "cooking_method": "Stovetop (griddle)",
+    "occasion": "Everyday",
+    "categories": [
+      "Breakfast"
+    ],
+    "tags": [
+      "under-30-min",
+      "vegetarian",
+      "kid-friendly",
+      "weekend brunch"
+    ],
+    "notes": "Chat: \"Pancake Batter\" (~Jun 18). Saved from Joe's ChatGPT chat; no external recipe page."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "prep_time_min": 5,
+    "cook_time_min": 2,
+    "total_time_min": 5,
+    "difficulty": "Easy",
+    "kid_friendly": false,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "main_protein": null,
+    "cuisine": "Café / Coffeehouse",
+    "id": "iced-latte-chatgpt",
+    "name": "Iced Latte",
+    "description": "A café-style iced latte: cold milk and ice in a glass, espresso poured last so it streaks through, with optional syrup for sweetness.",
+    "meal_type": "Drinks",
+    "key_ingredients": [
+      "espresso",
+      "cold milk",
+      "ice",
+      "syrup (optional)"
+    ],
+    "ingredients": [
+      "1–2 shots espresso (or strong coffee concentrate)",
+      "6–8 oz cold milk (dairy or non-dairy)",
+      "Ice",
+      "Optional: flavored syrup or simple syrup, to taste"
+    ],
+    "steps_summary": [
+      "Fill a glass with ice and pour in the cold milk (and syrup if using); stir.",
+      "Pull 1–2 espresso shots.",
+      "Pour the hot espresso over the milk and ice last so it cascades through.",
+      "Stir once more if you want it fully mixed, or leave layered."
+    ],
+    "servings": 1,
+    "cooking_method": "No-cook / espresso",
+    "occasion": "Everyday",
+    "categories": [
+      "Beverages",
+      "Breakfast"
+    ],
+    "tags": [
+      "coffee",
+      "under-30-min",
+      "café drink"
+    ],
+    "notes": "Chat: \"Iced Latte\" (~Jul 23). Saved from Joe's ChatGPT chat; no external recipe page."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "prep_time_min": 5,
+    "cook_time_min": 5,
+    "total_time_min": 10,
+    "difficulty": "Easy",
+    "kid_friendly": true,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "main_protein": null,
+    "cuisine": "American",
+    "id": "quick-salmon-sauce-chatgpt",
+    "name": "Quick Salmon Sauce (Lemon-Dijon Butter)",
+    "description": "A fast lemon-Dijon butter sauce with honey and garlic — spoon over pan-seared or baked salmon.",
+    "meal_type": "Sauces & Stocks",
+    "key_ingredients": [
+      "butter",
+      "Dijon mustard",
+      "lemon",
+      "honey",
+      "garlic"
+    ],
+    "ingredients": [
+      "2–3 tablespoons butter",
+      "1–2 teaspoons Dijon mustard",
+      "Juice of ½–1 lemon (plus zest if you like)",
+      "1 teaspoon honey (or to taste)",
+      "1 small garlic clove, minced (or ½ teaspoon garlic paste)",
+      "Pinch of salt and black pepper"
+    ],
+    "steps_summary": [
+      "Melt the butter in a small pan over low–medium heat.",
+      "Stir in Dijon, lemon juice, honey and garlic; warm just until fragrant and combined — do not brown hard.",
+      "Season with salt and pepper; taste and adjust lemon or honey.",
+      "Spoon over cooked salmon (or other fish) right before serving."
+    ],
+    "servings": "enough for 2 salmon portions",
+    "cooking_method": "Stovetop",
+    "occasion": "Everyday",
+    "categories": [
+      "Seafood",
+      "Weeknight Dinner"
+    ],
+    "tags": [
+      "sauces",
+      "under-30-min",
+      "seafood",
+      "lemon"
+    ],
+    "notes": "Chat: \"Quick Salmon Sauce\" (~Aug 10). Saved from Joe's ChatGPT chat; no external recipe page."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "prep_time_min": 15,
+    "cook_time_min": 12,
+    "total_time_min": 30,
+    "difficulty": "Easy",
+    "kid_friendly": true,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "main_protein": "Eggs",
+    "cuisine": "American",
+    "id": "deviled-eggs-chatgpt",
+    "name": "Deviled Eggs",
+    "description": "Classic creamy deviled eggs (mayo, Dijon, vinegar or pickle juice, paprika) for a dozen halves, plus upgrade ideas.",
+    "meal_type": "Appetizers",
+    "key_ingredients": [
+      "hard-boiled eggs",
+      "mayonnaise",
+      "Dijon mustard",
+      "vinegar or pickle juice",
+      "paprika"
+    ],
+    "ingredients": [
+      "6 large eggs",
+      "3–4 tablespoons mayonnaise",
+      "1–2 teaspoons Dijon mustard",
+      "1 teaspoon white vinegar or pickle juice (to taste)",
+      "Salt and black pepper",
+      "Paprika, for dusting",
+      "Optional upgrades: minced pickle or relish, chives, smoked paprika, a pinch of cayenne, crumbled bacon, or a dab of hot sauce"
+    ],
+    "steps_summary": [
+      "Hard-boil the eggs, cool in ice water, peel, and halve lengthwise.",
+      "Scoop yolks into a bowl; mash smooth with mayo, Dijon, vinegar or pickle juice, salt and pepper.",
+      "Taste and adjust creaminess and tang; pipe or spoon back into the whites.",
+      "Dust with paprika (or smoked paprika). Chill until serving. Try upgrades as desired."
+    ],
+    "servings": "12 halves",
+    "cooking_method": "Boiling + no-cook filling",
+    "occasion": "Party/Holiday",
+    "categories": [
+      "Appetizers"
+    ],
+    "tags": [
+      "party",
+      "make-ahead",
+      "classic",
+      "picnic",
+      "under-45-min"
+    ],
+    "notes": "Chat: \"Deviled Eggs\" (~Mar 28). Saved from Joe's ChatGPT chat; no external recipe page. Upgrade ideas from the chat: relish, chives, smoked paprika, cayenne, bacon, or hot sauce."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "prep_time_min": 15,
+    "cook_time_min": 45,
+    "total_time_min": 60,
+    "difficulty": "Easy",
+    "kid_friendly": false,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "main_protein": "Shellfish shells / fish bones",
+    "cuisine": "American / Restaurant",
+    "id": "seafood-stock-chatgpt",
+    "name": "Seafood Stock (Restaurant-Style)",
+    "description": "Restaurant-style seafood stock from shrimp, lobster or crab shells (or white-fish bones), simmered with aromatics in 6–8 cups water and optional white wine.",
+    "meal_type": "Sauces & Stocks",
+    "key_ingredients": [
+      "shrimp/lobster/crab shells or white-fish bones",
+      "onion",
+      "celery",
+      "carrot",
+      "garlic",
+      "bay leaf",
+      "optional white wine"
+    ],
+    "ingredients": [
+      "Shells from shrimp, lobster and/or crab (or white-fish bones) — enough to loosely fill a medium pot",
+      "6–8 cups cold water (just to cover)",
+      "½ cup dry white wine (optional)",
+      "1 onion, roughly chopped",
+      "1–2 celery stalks, roughly chopped",
+      "1 carrot, roughly chopped",
+      "2–3 garlic cloves, smashed",
+      "1 bay leaf",
+      "A few parsley stems and/or thyme sprigs",
+      "6–8 whole peppercorns",
+      "Pinch of salt (season lightly; finish when using the stock)"
+    ],
+    "steps_summary": [
+      "Rinse shells or bones; optionally roast briefly for deeper flavor.",
+      "Add shells/bones to a pot with water (and wine if using), aromatics, herbs and peppercorns.",
+      "Bring just to a bare simmer — avoid a hard boil — and cook gently about 30–45 minutes for shellfish shells (a bit longer for fish bones), skimming foam.",
+      "Strain through a fine mesh; cool, then refrigerate a few days or freeze. Use as a base for bisques, stews and seafood sauces."
+    ],
+    "servings": "about 6 cups",
+    "cooking_method": "Simmering",
+    "occasion": "Weekend/Project",
+    "categories": [
+      "Soups & Stews",
+      "Seafood",
+      "Weekend Cooking"
+    ],
+    "tags": [
+      "stock & base",
+      "make-ahead",
+      "freezer-friendly",
+      "zero-waste"
+    ],
+    "notes": "Chat: \"Seafood Stock\" (~Dec 31, 2025). Saved from Joe's ChatGPT chat; no external recipe page. ChatGPT restaurant-style method; different from the Simply Recipes Shellfish Stock already in the library."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "prep_time_min": 30,
+    "cook_time_min": 150,
+    "total_time_min": 180,
+    "difficulty": "Medium",
+    "kid_friendly": false,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "main_protein": "Veal",
+    "cuisine": "Italian",
+    "id": "classic-osso-buco-chatgpt",
+    "name": "Classic Osso Buco",
+    "description": "Braised veal shanks with soffritto, wine and stock, finished with bright gremolata — a classic weekend project for 4–6.",
+    "meal_type": "Dinner/Mains",
+    "key_ingredients": [
+      "veal shanks",
+      "onion",
+      "carrot",
+      "celery",
+      "white wine",
+      "stock",
+      "gremolata"
+    ],
+    "ingredients": [
+      "4–6 veal shanks (osso buco cuts), tied if needed",
+      "Salt and black pepper",
+      "Flour, for dredging (optional)",
+      "Olive oil and/or butter, for browning",
+      "1 onion, finely diced (soffritto)",
+      "1–2 carrots, finely diced",
+      "1–2 celery stalks, finely diced",
+      "2–3 garlic cloves, minced",
+      "1 cup dry white wine (or as needed to deglaze)",
+      "2–3 cups beef or veal stock (enough to come partway up the shanks)",
+      "1 can (14 oz) crushed or diced tomatoes, or a spoon of tomato paste (optional, traditional Milanese often lighter)",
+      "Bay leaf and a few thyme sprigs (or a pinch of dried herbs)",
+      "Gremolata: zest of 1 lemon, 1–2 tablespoons chopped parsley, 1 small garlic clove minced"
+    ],
+    "steps_summary": [
+      "Season shanks; dredge lightly in flour if using. Brown well on all sides in oil/butter; set aside.",
+      "In the same pot, soften the soffritto (onion, carrot, celery) until translucent; add garlic briefly.",
+      "Deglaze with white wine, scraping up browned bits; reduce slightly.",
+      "Return shanks; add stock (and tomato if using) plus herbs so liquid comes about halfway up. Bring to a simmer, cover, and braise in a 325°F oven (or low stovetop) until fork-tender, about 1½–2½ hours.",
+      "Mix gremolata. Taste the sauce, reduce on the stove if needed, and serve shanks with sauce and gremolata (often with risotto milanese or polenta)."
+    ],
+    "servings": "4–6",
+    "cooking_method": "Braising",
+    "occasion": "Weekend/Project",
+    "categories": [
+      "Weekend Cooking",
+      "Beef"
+    ],
+    "tags": [
+      "braise",
+      "Italian",
+      "special occasion",
+      "make-ahead",
+      "veal"
+    ],
+    "notes": "Chat: \"Classic Osso Buco / Upscale Easter / Processing Veal Shank\" (~Mar 28). Saved from Joe's ChatGPT chat; no external recipe page. From Joe's Upscale Easter and Processing Veal Shank ChatGPT chats. Filed under Beef with other braises; protein is veal shank."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "prep_time_min": 5,
+    "cook_time_min": 0,
+    "total_time_min": 5,
+    "difficulty": "Easy",
+    "kid_friendly": false,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "main_protein": null,
+    "cuisine": "American / Cocktail",
+    "id": "old-fashioned-versions-chatgpt",
+    "name": "Old Fashioned Versions",
+    "description": "Cocktail specs for a classic Old Fashioned plus maple, black walnut and other easy variations — one entry covering the family of drinks.",
+    "meal_type": "Drinks",
+    "key_ingredients": [
+      "bourbon or rye",
+      "sugar or syrup",
+      "bitters",
+      "orange",
+      "ice"
+    ],
+    "ingredients": [
+      "Classic: 2 oz bourbon or rye whiskey",
+      "Classic: 1 sugar cube (or ½ tsp sugar / ¼ oz simple syrup)",
+      "Classic: 2–3 dashes Angostura bitters",
+      "Classic: splash of water (if using a sugar cube)",
+      "Orange peel (and optional cherry) for garnish",
+      "Large ice cube or ice",
+      "Maple variation: swap sugar/syrup for ¼–½ oz maple syrup; optional maple bitters",
+      "Black Walnut variation: use black walnut bitters (or a few dashes walnut bitters) with the whiskey and sweetener",
+      "Other easy twists from the chat: demerara syrup, orange bitters, smoked salt rim, or a float of walnut liqueur — keep the whiskey + sweet + bitter + citrus peel core"
+    ],
+    "steps_summary": [
+      "Classic: muddle sugar with bitters and a splash of water in a rocks glass (or stir syrup + bitters).",
+      "Add whiskey and ice; stir until chilled and slightly diluted.",
+      "Express an orange peel over the glass and drop it in (cherry optional).",
+      "Maple: build the same way with maple syrup instead of sugar; garnish with orange.",
+      "Black Walnut: same build, swapping in black walnut bitters; garnish with orange peel.",
+      "Taste and adjust sweetness or bitters; serve immediately."
+    ],
+    "servings": 1,
+    "cooking_method": "Stirred cocktail",
+    "occasion": "Party/Holiday",
+    "categories": [
+      "Cocktails"
+    ],
+    "tags": [
+      "cocktail",
+      "bourbon",
+      "rye",
+      "under-30-min",
+      "party"
+    ],
+    "notes": "Chat: \"Old Fashioned Versions\" (~Oct 3). Saved from Joe's ChatGPT chat; no external recipe page. One entry covering Classic, Maple, Black Walnut and related twists from the chat."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "prep_time_min": 40,
+    "cook_time_min": 20,
+    "total_time_min": 60,
+    "difficulty": "Medium",
+    "kid_friendly": true,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "main_protein": null,
+    "cuisine": "Italian",
+    "id": "gnocchi-fritti-chatgpt",
+    "name": "Gnocchi Fritti (Elevated Christmas Appetizers)",
+    "description": "Technique-focused notes for light potato gnocchi fritti — ricer vs masher — aimed at elevated Christmas appetizers, with linked YouTube references.",
+    "meal_type": "Appetizers",
+    "key_ingredients": [
+      "potatoes",
+      "flour",
+      "egg (optional)",
+      "salt",
+      "oil for frying"
+    ],
+    "ingredients": [
+      "Starchy potatoes (russet or similar), boiled or baked until tender",
+      "All-purpose flour (enough to bring dough together — add gradually)",
+      "Optional: 1 egg yolk or whole egg for binding",
+      "Salt",
+      "Oil for frying (neutral, for shallow or deep fry)",
+      "Serving ideas: flaky salt, cured meats, soft cheese, or a holiday dip"
+    ],
+    "steps_summary": [
+      "Cook potatoes until soft; drain well and let steam-dry so they are not wet.",
+      "Pass through a ricer while still warm for the lightest texture (a masher works but can make denser, gummier dough — prefer ricer when possible).",
+      "Gently work in salt, optional egg, and just enough flour to form a soft dough; do not knead hard.",
+      "Roll into ropes, cut bite-size pieces (ridges optional), and fry in hot oil until puffed and golden.",
+      "Drain, season, and serve as an elevated Christmas appetizer."
+    ],
+    "servings": "appetizer platter",
+    "cooking_method": "Frying",
+    "occasion": "Party/Holiday",
+    "categories": [
+      "Appetizers",
+      "Weekend Cooking"
+    ],
+    "tags": [
+      "Italian",
+      "holiday",
+      "frying",
+      "technique",
+      "Christmas"
+    ],
+    "notes": "Chat: \"Elevated Christmas Appetizers / gnocchi fritti\" (~Dec 2025). Saved from Joe's ChatGPT chat; no external recipe page. Technique emphasis: ricer vs masher. YouTube refs: https://www.youtube.com/watch?v=cBrWH1nUkSc https://www.youtube.com/watch?v=YuxqdmzOG2c https://www.youtube.com/watch?v=THrKcGzGqy0 https://www.youtube.com/watch?v=INXWmj8nxHo"
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "prep_time_min": 10,
+    "cook_time_min": 0,
+    "total_time_min": 10,
+    "difficulty": "Easy",
+    "kid_friendly": true,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "main_protein": null,
+    "cuisine": "Italian / Pizza",
+    "id": "forming-pizza-dough-chatgpt",
+    "name": "Forming Pizza Dough",
+    "description": "How to shape risen pizza dough into a pizza — stretch by hand from the center out, keep a rim, and transfer to peel or pan.",
+    "meal_type": "Dinner/Mains",
+    "key_ingredients": [
+      "risen pizza dough",
+      "flour for dusting",
+      "olive oil (optional)"
+    ],
+    "ingredients": [
+      "1 ball of risen pizza dough (room temperature)",
+      "Flour or semolina, for dusting",
+      "Optional: a light brush of olive oil on the dough or pan"
+    ],
+    "steps_summary": [
+      "Let the dough ball warm slightly if cold; flour the counter and your hands.",
+      "Press from the center outward with fingertips, leaving a thicker outer rim for the crust.",
+      "Pick up and stretch gently over your knuckles, rotating so it thins evenly — avoid tearing the center.",
+      "Lay on a floured peel or oiled pan; adjust shape, then top and bake as your dough recipe directs."
+    ],
+    "servings": 1,
+    "cooking_method": "Hand-shaping",
+    "occasion": "Everyday",
+    "categories": [
+      "Pizza"
+    ],
+    "tags": [
+      "technique",
+      "pizza night",
+      "under-30-min",
+      "bread"
+    ],
+    "notes": "Chat: \"Forming Pizza Dough\" (~Jul 4). Saved from Joe's ChatGPT chat; no external recipe page."
+  },
+  {
+    "source_url": "https://chatgpt.com/",
+    "source_name": "ChatGPT",
+    "creator": "ChatGPT (Joe Kontak's chat)",
+    "photo_local": null,
+    "photo_url": null,
+    "prep_time_min": 10,
+    "cook_time_min": 40,
+    "total_time_min": 50,
+    "difficulty": "Easy",
+    "kid_friendly": true,
+    "rating": null,
+    "times_made": 0,
+    "last_made": null,
+    "changes_made": null,
+    "make_again": null,
+    "date_added": "2026-10-05",
+    "main_protein": "Chicken",
+    "cuisine": "American",
+    "id": "baking-drumsticks-425-chatgpt",
+    "name": "Baking Drumsticks at 425°F",
+    "description": "Oven-baked chicken drumsticks at 425°F for 35–45 minutes to 175–185°F internal, on a rack, flipped halfway for crisp skin.",
+    "meal_type": "Dinner/Mains",
+    "key_ingredients": [
+      "chicken drumsticks",
+      "oil or seasoning",
+      "salt and pepper"
+    ],
+    "ingredients": [
+      "Chicken drumsticks (as many as you need; do not crowd the pan)",
+      "Oil or melted butter, for coating (optional)",
+      "Salt, pepper, and any dry rub or seasoning you like"
+    ],
+    "steps_summary": [
+      "Heat oven to 425°F. Pat drumsticks dry; toss with oil and season well.",
+      "Set on a wire rack over a sheet pan so air circulates under the chicken.",
+      "Bake 35–45 minutes, flipping halfway, until the thickest part reads 175–185°F and skin is browned.",
+      "Rest a few minutes before serving."
+    ],
+    "servings": "varies",
+    "cooking_method": "Baking",
+    "occasion": "Everyday",
+    "categories": [
+      "Chicken",
+      "Weeknight Dinner"
+    ],
+    "tags": [
+      "under-60-min",
+      "sheet-pan",
+      "crispy",
+      "weeknight"
+    ],
+    "notes": "Chat: \"Baking Drumsticks at 425\" (~Mar 20, 2025). Saved from Joe's ChatGPT chat; no external recipe page."
   }
 ]
