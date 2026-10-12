@@ -44,11 +44,11 @@
       "Blend the cream sauce with the roasted Campari tomatoes, then strain until silky.",
       "Toss pasta with the sauce and top with the remaining roasted tomatoes and plenty of Parmesan."
     ],
-    "prep_time_min": null,
-    "cook_time_min": null,
-    "total_time_min": null,
+    "prep_time_min": 15,
+    "cook_time_min": 45,
+    "total_time_min": 60,
     "difficulty": "Medium",
-    "servings": null,
+    "servings": 4,
     "cooking_method": "Roasting + stovetop",
     "kid_friendly": true,
     "occasion": "Weekend/Project",
@@ -63,7 +63,7 @@
       "pasta night",
       "white wine sauce"
     ],
-    "notes": "Source page lists no prep/cook times; roasting alone is ~30 min plus ~15 min sauce simmer.",
+    "notes": "Source page has no formal recipe-card times; filled prep/cook/total from method (roast ~30 min + ~15 min sauce simmer, pasta in parallel). Servings from 1 lb spaghetti.",
     "rating": null,
     "times_made": 0,
     "last_made": null,
@@ -199,7 +199,6 @@
       "Weekend Cooking"
     ],
     "tags": [
-      "Cajun & Creole",
       "gumbo",
       "New Orleans",
       "make-ahead",
@@ -350,7 +349,6 @@
       "Weekend Cooking"
     ],
     "tags": [
-      "Cajun & Creole",
       "gumbo",
       "New Orleans",
       "big batch",
@@ -501,7 +499,6 @@
       "Weekend Cooking"
     ],
     "tags": [
-      "Cajun & Creole",
       "seafood boil",
       "crowd-pleaser",
       "party",
@@ -582,7 +579,6 @@
       "Weeknight Dinner"
     ],
     "tags": [
-      "Cajun & Creole",
       "New Orleans",
       "shrimp",
       "stew"
@@ -650,7 +646,6 @@
       "Weekend Cooking"
     ],
     "tags": [
-      "Cajun & Creole",
       "gumbo",
       "stock & base",
       "make-ahead",
@@ -853,7 +848,7 @@
       "Return the chicken, cover and simmer 1–1½ hours until very tender; serve over pasta with Parmesan and parsley."
     ],
     "prep_time_min": 30,
-    "cook_time_min": null,
+    "cook_time_min": 60,
     "total_time_min": 90,
     "difficulty": "Medium",
     "servings": 6,
@@ -1403,7 +1398,7 @@
       "Top with sour cream, cilantro and avocado."
     ],
     "prep_time_min": 10,
-    "cook_time_min": null,
+    "cook_time_min": 40,
     "total_time_min": 50,
     "difficulty": "Easy",
     "servings": 10,
@@ -1465,7 +1460,7 @@
       "Pulse in a food processor with salt and cumin (add chiles gradually for heat).",
       "Pulse in cilantro and lime juice; adjust seasoning and serve warm or chilled."
     ],
-    "prep_time_min": null,
+    "prep_time_min": 15,
     "cook_time_min": 10,
     "total_time_min": 25,
     "difficulty": "Easy",
@@ -1541,8 +1536,8 @@
       "Remove bay and peel, add the seafood and simmer covered about 8 minutes until the shells open; serve with crusty bread."
     ],
     "prep_time_min": 20,
-    "cook_time_min": null,
-    "total_time_min": 20,
+    "cook_time_min": 45,
+    "total_time_min": 65,
     "difficulty": "Medium",
     "servings": 4,
     "cooking_method": "Stovetop",
@@ -1559,7 +1554,7 @@
       "stew",
       "healthy"
     ],
-    "notes": "Chatelaine lists 20 min prep / 0 min cook, which understates it — the simmering steps add roughly 35–40 minutes. Credited to the Chatelaine editorial team (no individual author named). Page fetched from a Dec 2024 Wayback Machine snapshot because chatelaine.com blocked direct access. Goes well with the Shellfish Stock in place of some of the water.",
+    "notes": "Chatelaine lists 20 min prep / 0 min cook, which understates it — the simmering steps add roughly 35–40 minutes. Credited to the Chatelaine editorial team (no individual author named). Page fetched from a Dec 2024 Wayback Machine snapshot because chatelaine.com blocked direct access. Goes well with the Shellfish Stock in place of some of the water. Chatelaine lists prep 20 min plus 45 min cooking; total corrected to 65 (was stored as 20).",
     "rating": null,
     "times_made": 0,
     "last_made": null,
@@ -1753,7 +1748,7 @@
       "Top with cheese and broil until bubbly; finish with cilantro."
     ],
     "prep_time_min": 20,
-    "cook_time_min": null,
+    "cook_time_min": 40,
     "total_time_min": 60,
     "difficulty": "Easy",
     "servings": "6-8",
@@ -2311,8 +2306,8 @@
       "Return the fish, add shrimp, then nestle in mussels and cook until they open.",
       "Stir in cashew butter thinned with hot water and the remaining lime; garnish with cilantro."
     ],
-    "prep_time_min": null,
-    "cook_time_min": null,
+    "prep_time_min": 60,
+    "cook_time_min": 35,
     "total_time_min": 95,
     "difficulty": "Medium",
     "servings": 6,
@@ -2523,9 +2518,9 @@
       "Add the wine and keep warm until the pasta is ready.",
       "Toss the drained pasta in the pan with the cheese; finish with salt and more Parmesan."
     ],
-    "prep_time_min": null,
-    "cook_time_min": null,
-    "total_time_min": null,
+    "prep_time_min": 2,
+    "cook_time_min": 5,
+    "total_time_min": 10,
     "difficulty": "Easy",
     "servings": "1-2",
     "cooking_method": "Stovetop",
@@ -2676,7 +2671,7 @@
       "To serve, cook noodles and combine with hot dashi and tare; top with chashu, egg, shiitake, scallion, chili oil and nori."
     ],
     "prep_time_min": 30,
-    "cook_time_min": null,
+    "cook_time_min": 360,
     "total_time_min": 390,
     "difficulty": "Hard",
     "servings": 4,
@@ -2752,7 +2747,6 @@
       "Weeknight Dinner"
     ],
     "tags": [
-      "Cajun & Creole",
       "one-pot",
       "under-45-min",
       "alfredo",
@@ -2805,9 +2799,9 @@
       "Add wine, vegetables, tomato paste, herbs and peppercorns and barely simmer 30 minutes more; salt.",
       "Lift out the solids and strain through damp cheesecloth; use or freeze."
     ],
-    "prep_time_min": null,
-    "cook_time_min": null,
-    "total_time_min": null,
+    "prep_time_min": 15,
+    "cook_time_min": 100,
+    "total_time_min": 115,
     "difficulty": "Easy",
     "servings": "12 (3 quarts)",
     "cooking_method": "Simmering",
@@ -3205,7 +3199,7 @@
       "Spoon the tomatoes over and serve."
     ],
     "prep_time_min": 10,
-    "cook_time_min": null,
+    "cook_time_min": 20,
     "total_time_min": 30,
     "difficulty": "Easy",
     "servings": 4,
@@ -3403,9 +3397,9 @@
       "Strain through cheesecloth-lined mesh, let the sediment settle 5–10 minutes, then decant.",
       "Refrigerate the concentrate and dilute to taste (e.g. half concentrate, half milk) — or with hot water for a warm cup."
     ],
-    "prep_time_min": null,
-    "cook_time_min": null,
-    "total_time_min": null,
+    "prep_time_min": 15,
+    "cook_time_min": 0,
+    "total_time_min": 1440,
     "difficulty": "Easy",
     "servings": "about 5 cups concentrate (10-12 cups coffee)",
     "cooking_method": "Cold steeping",
@@ -3421,7 +3415,7 @@
       "no-cook",
       "vegan"
     ],
-    "notes": "Steep time 12–48 hours (not given as formal prep/cook times, so times are left blank). Spent grounds can be re-steeped ~48 hours for a second, non-concentrate batch. Article-style post with no recipe schema; details taken from the post text.",
+    "notes": "Steep 12–48 hours (total_time_min set to 1440 = 24h typical mid-range; adjust to taste). Spent grounds can be re-steeped ~48 hours for a second, non-concentrate batch. Article-style post; times filled from method text rather than a formal recipe card.",
     "rating": null,
     "times_made": 0,
     "last_made": null,
@@ -3489,7 +3483,8 @@
       "no-cook",
       "under-30-min",
       "vegetarian",
-      "meal-prep"
+      "meal-prep",
+      "ChatGPT"
     ],
     "notes": "Chat: \"Overnight oats\" (~Jul 21). Saved from Joe's ChatGPT chat; no external recipe page."
   },
@@ -3552,7 +3547,8 @@
       "under-30-min",
       "vegetarian",
       "kid-friendly",
-      "weekend brunch"
+      "weekend brunch",
+      "ChatGPT"
     ],
     "notes": "Chat: \"Pancake Batter\" (~Jun 18). Saved from Joe's ChatGPT chat; no external recipe page."
   },
@@ -3607,7 +3603,8 @@
     "tags": [
       "coffee",
       "under-30-min",
-      "café drink"
+      "café drink",
+      "ChatGPT"
     ],
     "notes": "Chat: \"Iced Latte\" (~Jul 23). Saved from Joe's ChatGPT chat; no external recipe page."
   },
@@ -3665,8 +3662,8 @@
     "tags": [
       "sauces",
       "under-30-min",
-      "seafood",
-      "lemon"
+      "lemon",
+      "ChatGPT"
     ],
     "notes": "Chat: \"Quick Salmon Sauce\" (~Aug 10). Saved from Joe's ChatGPT chat; no external recipe page."
   },
@@ -3726,7 +3723,8 @@
       "make-ahead",
       "classic",
       "picnic",
-      "under-45-min"
+      "under-45-min",
+      "ChatGPT"
     ],
     "notes": "Chat: \"Deviled Eggs\" (~Mar 28). Saved from Joe's ChatGPT chat; no external recipe page. Upgrade ideas from the chat: relish, chives, smoked paprika, cayenne, bacon, or hot sauce."
   },
@@ -3793,7 +3791,8 @@
       "stock & base",
       "make-ahead",
       "freezer-friendly",
-      "zero-waste"
+      "zero-waste",
+      "ChatGPT"
     ],
     "notes": "Chat: \"Seafood Stock\" (~Dec 31, 2025). Saved from Joe's ChatGPT chat; no external recipe page. ChatGPT restaurant-style method; different from the Simply Recipes Shellfish Stock already in the library."
   },
@@ -3860,10 +3859,10 @@
     ],
     "tags": [
       "braise",
-      "Italian",
       "special occasion",
       "make-ahead",
-      "veal"
+      "veal",
+      "ChatGPT"
     ],
     "notes": "Chat: \"Classic Osso Buco / Upscale Easter / Processing Veal Shank\" (~Mar 28). Saved from Joe's ChatGPT chat; no external recipe page. From Joe's Upscale Easter and Processing Veal Shank ChatGPT chats. Filed under Beef with other braises; protein is veal shank."
   },
@@ -3923,11 +3922,11 @@
       "Cocktails"
     ],
     "tags": [
-      "cocktail",
       "bourbon",
       "rye",
       "under-30-min",
-      "party"
+      "party",
+      "ChatGPT"
     ],
     "notes": "Chat: \"Old Fashioned Versions\" (~Oct 3). Saved from Joe's ChatGPT chat; no external recipe page. One entry covering Classic, Maple, Black Walnut and related twists from the chat."
   },
@@ -3984,11 +3983,11 @@
       "Weekend Cooking"
     ],
     "tags": [
-      "Italian",
       "holiday",
       "frying",
       "technique",
-      "Christmas"
+      "Christmas",
+      "ChatGPT"
     ],
     "notes": "Chat: \"Elevated Christmas Appetizers / gnocchi fritti\" (~Dec 2025). Saved from Joe's ChatGPT chat; no external recipe page. Technique emphasis: ricer vs masher. YouTube refs: https://www.youtube.com/watch?v=cBrWH1nUkSc https://www.youtube.com/watch?v=YuxqdmzOG2c https://www.youtube.com/watch?v=THrKcGzGqy0 https://www.youtube.com/watch?v=INXWmj8nxHo"
   },
@@ -4041,7 +4040,8 @@
       "technique",
       "pizza night",
       "under-30-min",
-      "bread"
+      "bread",
+      "ChatGPT"
     ],
     "notes": "Chat: \"Forming Pizza Dough\" (~Jul 4). Saved from Joe's ChatGPT chat; no external recipe page."
   },
@@ -4095,7 +4095,7 @@
       "under-60-min",
       "sheet-pan",
       "crispy",
-      "weeknight"
+      "ChatGPT"
     ],
     "notes": "Chat: \"Baking Drumsticks at 425\" (~Mar 20, 2025). Saved from Joe's ChatGPT chat; no external recipe page."
   },
@@ -4150,14 +4150,14 @@
     "cooking_method": "Roasting",
     "occasion": "Weekend/Project",
     "categories": [
-      "Weekend Cooking",
-      "Chicken"
+      "Weekend Cooking"
     ],
     "tags": [
       "Thanksgiving",
       "make-ahead",
       "crowd-pleaser",
-      "ChatGPT"
+      "ChatGPT",
+      "turkey"
     ],
     "notes": "Combined from ChatGPT chats \"Cut turkey backbone tips\" (Nov 25, 2025), \"Spatchcock vs traditional turkey\", \"Turkey size for 14 adults\", and \"Utensils for spatchcock turkey\". Dry-brine amounts are for a ~20 lb Butterball-style pre-salted bird. No compound butter recipe was given. No photo. Total time assumes ~24 hr dry brine + ~1 hr 45 min roast (brine window 12–48 hrs)."
   },
@@ -4226,8 +4226,8 @@
       "leftover turkey",
       "Thanksgiving",
       "make-ahead",
-      "stock & base",
-      "ChatGPT"
+      "ChatGPT",
+      "turkey"
     ],
     "notes": "Chat: \"Turkey & Wild Rice Soup\" (Nov 28 / Dec 21, 2025). Saved from Joe's ChatGPT chat; no external recipe page. Pairs with turkey stock / gravy / jus entries. No photo."
   },
@@ -4282,7 +4282,8 @@
       "stock & base",
       "Thanksgiving",
       "under-30-min",
-      "ChatGPT"
+      "ChatGPT",
+      "turkey"
     ],
     "notes": "Chat: turkey gravy notes alongside leftover turkey / soup chats (Nov–Dec 2025). Short stock & base pairing with turkey. No photo."
   },
@@ -4336,7 +4337,8 @@
       "stock & base",
       "Thanksgiving",
       "under-30-min",
-      "ChatGPT"
+      "ChatGPT",
+      "turkey"
     ],
     "notes": "Chat: turkey jus notes with Thanksgiving / leftover turkey chats (Nov–Dec 2025). Short stock & base pairing with turkey; thinner than the gravy entry. Detail was limited — do not over-specify. No photo."
   },
@@ -4474,7 +4476,6 @@
       "Desserts"
     ],
     "tags": [
-      "Italian",
       "make-ahead",
       "no-bake",
       "party",
