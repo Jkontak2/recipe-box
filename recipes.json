@@ -2475,7 +2475,8 @@
       "crowd-pleaser",
       "date night",
       "Bobby Flay",
-      "stew"
+      "stew",
+      "under-30-min"
     ],
     "notes": "Food Network lists 29 minutes total (15 prep / 14 cook), which looks optimistic for this many components. The Shellfish Stock in this library is a good homemade swap for the fish stock.",
     "rating": null,
@@ -3723,7 +3724,7 @@
       "make-ahead",
       "classic",
       "picnic",
-      "under-45-min",
+      "under-30-min",
       "ChatGPT"
     ],
     "notes": "Chat: \"Deviled Eggs\" (~Mar 28). Saved from Joe's ChatGPT chat; no external recipe page. Upgrade ideas from the chat: relish, chives, smoked paprika, cayenne, bacon, or hot sauce."
@@ -4092,7 +4093,6 @@
       "Weeknight Dinner"
     ],
     "tags": [
-      "under-60-min",
       "sheet-pan",
       "crispy",
       "ChatGPT"
@@ -4666,7 +4666,6 @@
       "steak",
       "steel pan",
       "dry brine",
-      "under-30-min-cook",
       "ChatGPT"
     ],
     "notes": "Chat: \"Pan-Seared Ribeye\" (Aug 15, 2026). Dry brine + steel pan method; specific target temps were referenced in chat but not copied into the library brief — use a thermometer and your preferred doneness rather than invented numbers. Total time assumes dry-brine window. No photo."
