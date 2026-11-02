@@ -4908,7 +4908,6 @@
       "from-scratch",
       "dark-roux",
       "andouille",
-      "cajun",
       "no-tomato",
       "dutch-oven"
     ],
@@ -4987,9 +4986,9 @@
       "from-scratch",
       "dark-roux",
       "andouille",
-      "new-orleans",
+      "New Orleans",
       "restaurant-recipe",
-      "big-batch",
+      "big batch",
       "freezer-friendly"
     ],
     "notes": "Restaurant recipe from Mr. B's Bistro, New Orleans. Source gives no prep time; cook time (~2 hr) estimated from step timings (roux 45-60 min, simmer 45 + 15 min). Requires a pre-roasted, boned chicken and homemade chicken stock. Freeze leftovers."
