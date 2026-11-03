@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 """Build a self-contained index.html recipe app from recipes.json.
-Usage: python3 build.py   (writes index.html next to this file)"""
+Usage: python3 build.py   (writes index.html next to this file)
+
+Each recipe may include customizations (a list of strings, or null):
+static adjustment bullets shown on the recipe. They leave steps_summary
+and the rest of the recipe as written. Scratch notes typed in the app stay
+in localStorage on that device and are not written back into recipes.json.
+"""
 import json, os, html
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -111,6 +117,16 @@ ol.steps li::before{content:counter(s);position:absolute;left:0;top:-1px;width:2
 .pill-row{display:flex;flex-wrap:wrap;gap:6px}
 .src{font-size:12.5px;color:var(--muted);margin-top:18px;overflow-wrap:anywhere}
 .unavail{background:#fdeeee;border:1px solid #f2c9c9;color:#8a2a2a;border-radius:12px;padding:10px 12px;font-size:14px}
+.ph .cust{position:absolute;top:8px;right:8px;background:rgba(255,255,255,.94);color:#2f6b3a;font-size:11px;font-weight:700;border-radius:999px;padding:3px 8px;box-shadow:0 1px 3px rgba(0,0,0,.16)}
+ul.adjust{margin:0;background:#eef6ef;border:1px solid #cfe5d2;border-radius:14px;padding:12px 14px 12px 32px;font-size:15px}
+ul.adjust li{margin:0 0 8px;padding:0}
+ul.adjust li:last-child{margin-bottom:0}
+.custom-empty{background:#fff;border:1px dashed #d9cfc4;border-radius:14px;padding:12px 14px;color:var(--muted);font-size:14px}
+.scratch{margin-top:16px}
+.scratch label{display:block;font-weight:700;font-size:14px;margin:0 0 2px}
+.scratch .hint{margin:0 0 8px;color:var(--muted);font-size:12.5px;line-height:1.35}
+.scratch textarea{width:100%;min-height:110px;border:1px solid var(--line);background:#fff;border-radius:12px;padding:11px 12px;font-size:16px;line-height:1.45;font-family:inherit;color:inherit;resize:vertical;outline:none;box-shadow:0 1px 2px rgba(0,0,0,.03)}
+.scratch textarea:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(180,71,43,.14)}
 body.lock{overflow:hidden}
 </style>
 </head>
@@ -160,7 +176,12 @@ const $ = s=>document.querySelector(s);
 const esc = s=>String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const fmt = m=>{ if(m==null) return null; if(m<60) return m+" min"; const h=Math.floor(m/60), mm=m%60; return h+" hr"+(mm?" "+mm+" min":""); };
 const initials = n=>n.split(/\s+/).filter(w=>/^[A-Za-z]/.test(w)).slice(0,2).map(w=>w[0].toUpperCase()).join("");
-R.forEach(r=>{ r._hay=[r.name,r.creator,r.source_name,r.cuisine,r.meal_type,r.main_protein,r.description,(r.tags||[]).join(" "),(r.categories||[]).join(" "),(r.key_ingredients||[]).join(" "),(r.ingredients||[]).join(" ")].join(" \u0001 ").toLowerCase(); });
+const scratchKey = id => "recipe-box:scratch:"+id;
+function libCustom(r){
+  if(!Array.isArray(r.customizations)) return [];
+  return r.customizations.filter(s=>typeof s==="string" && s.trim()).map(s=>s.trim());
+}
+R.forEach(r=>{ r._hay=[r.name,r.creator,r.source_name,r.cuisine,r.meal_type,r.main_protein,r.description,(r.tags||[]).join(" "),(r.categories||[]).join(" "),(r.key_ingredients||[]).join(" "),(r.ingredients||[]).join(" "), libCustom(r).join(" ")].join(" \u0001 ").toLowerCase(); });
 
 function photo(r, cls){
   if(r.photo_local) return '<img src="'+esc(r.photo_local)+'" alt="'+esc(r.name)+'" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement(\'div\'),{className:\'noimg\',textContent:\''+esc(initials(r.name))+'\'}))">';
@@ -172,8 +193,9 @@ function pickTags(r){
 }
 function card(r){
   const t=fmt(r.total_time_min);
-  return '<button class="card" data-id="'+esc(r.id)+'" aria-label="'+esc(r.name)+'">'+
-    '<div class="ph">'+photo(r)+(t?'<span class="time">⏱ '+esc(t)+'</span>':'')+'</div>'+
+  const custom = libCustom(r).length;
+  return '<button class="card" data-id="'+esc(r.id)+'" aria-label="'+esc(r.name)+(custom?" (has customizations)":"")+'">'+
+    '<div class="ph">'+photo(r)+(t?'<span class="time">⏱ '+esc(t)+'</span>':'')+(custom?'<span class="cust">Custom</span>':'')+'</div>'+
     '<div class="cb"><h3>'+esc(r.name)+'</h3><div class="by">by '+esc(r.creator)+'</div>'+
     '<div class="tags">'+pickTags(r).map(x=>'<span class="tag'+(HOT.has(x)?' hot':'')+'">'+esc(x)+'</span>').join("")+'</div></div></button>';
 }
@@ -228,6 +250,12 @@ function detail(r){
   if(r.last_made) joeBits.push('<span>Last made '+esc(r.last_made)+'</span>');
   if(r.make_again!=null) joeBits.push('<span>Make again: '+(r.make_again?"Yes":"No")+'</span>');
   const joe = (joeBits.length||r.changes_made) ? '<div class="d-sec"><h2>Joe\'s notes</h2><div class="note joe"><div class="row">'+joeBits.join("")+'</div>'+(r.changes_made?'<p style="margin:8px 0 0"><b>Changes:</b> '+esc(r.changes_made)+'</p>':'')+'</div></div>' : "";
+  const items = libCustom(r);
+  const custom = '<div class="d-sec" id="customization"><h2>Customization</h2>'+
+    (items.length?'<ul class="adjust">'+items.map(s=>'<li>'+esc(s)+'</li>').join("")+'</ul>':'<div class="custom-empty">No adjustments yet.</div>')+
+    '<div class="scratch"><label for="scratch">On this device</label>'+
+    '<p class="hint" id="scratch-status">Stays on this device until you share it with Recipes.</p>'+
+    '<textarea id="scratch" placeholder="Jot a swap, timing tweak, or reminder…" autocomplete="off" spellcheck="true"></textarea></div></div>';
   return '<button class="back" id="back" aria-label="Back"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg></button>'+
   '<div class="d-hero">'+photo(r)+'</div>'+
   '<div class="d-body">'+
@@ -244,6 +272,7 @@ function detail(r){
     (r.notes?'<div class="d-sec"><h2>Notes</h2><div class="note">'+esc(r.notes)+'</div></div>':'')+
     joe+
     '<div class="d-sec"><h2>Tags</h2><div class="pill-row">'+(r.categories||[]).map(c=>'<span class="chip on" style="padding:4px 10px;font-size:12px">'+esc(c)+'</span>').join("")+t.map(x=>'<span class="tag'+(HOT.has(x)?' hot':'')+'" style="font-size:12px;padding:4px 8px">'+esc(x)+'</span>').join("")+'</div></div>'+
+    custom+
     '<div class="src">Credit: '+esc(r.creator)+' — <a href="'+esc(r.source_url)+'" target="_blank" rel="noopener">'+esc(r.source_url)+'</a><br>Added '+esc(r.date_added)+'</div>'+
   '</div>';
 }
@@ -259,6 +288,23 @@ function route(){
     sc.innerHTML='<a class="cta" href="'+esc(r.source_url)+'" target="_blank" rel="noopener">View original recipe ↗</a>';
     $("#back").onclick=()=>{ if(inApp){ inApp=false; history.back(); } else location.hash=""; };
     d.querySelectorAll("ul.ing li").forEach(li=>li.onclick=()=>li.classList.toggle("done"));
+    const ta=d.querySelector("#scratch");
+    if(ta){
+      const key=scratchKey(r.id);
+      const status=d.querySelector("#scratch-status");
+      const savedMsg="Saved on this device. Stays here until you share it with Recipes.";
+      try{ ta.value=localStorage.getItem(key)||""; }catch(e){}
+      if(ta.value && status) status.textContent=savedMsg;
+      ta.addEventListener("input",()=>{
+        try{
+          if(ta.value) localStorage.setItem(key, ta.value);
+          else localStorage.removeItem(key);
+          if(status) status.textContent=savedMsg;
+        }catch(e){
+          if(status) status.textContent="Could not save on this device.";
+        }
+      });
+    }
     sc.classList.remove("show");
     if(window.IntersectionObserver){ if(window._io) window._io.disconnect(); window._io=new IntersectionObserver(es=>{ es.forEach(en=>sc.classList.toggle("show", !en.isIntersecting && en.boundingClientRect.top<0)); },{root:d}); window._io.observe(d.querySelector(".d-body .cta")); }
     else sc.classList.add("show");
